@@ -1,0 +1,6 @@
+body .gspb_row {margin: auto;justify-content: space-between;margin-top: 0px;margin-bottom: 0px;position: relative;display: flex;flex-wrap: wrap;}
+body .gspb_row .gspb_row__content {width: 100%; }
+body .gspb_row div[class^=gspb_row__col] {flex-direction: column;}
+.gspb_row__content {display: flex;justify-content: space-between;margin: auto;width: 100%;flex-wrap: wrap;}
+div[class^=gspb_row__col] {position: relative;}
+.gspb_row__col--24, .gspb_row__col--12, .gspb_row__col--11, .gspb_row__col--10, .gspb_row__col--9, .gspb_row__col--8, .gspb_row__col--7, .gspb_row__col--6, .gspb_row__col--5, .gspb_row__col--4, .gspb_row__col--3, .gspb_row__col--2, .gspb_row__col--1 {padding: 15px min(3vw, 20px);box-sizing: border-box;}

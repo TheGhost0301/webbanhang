@@ -1,0 +1,76 @@
+
+---Downloaded files---
+The import files for: ReWise were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = http://webtragia.com
+Data file = /home/dbe8lj4jelac/public_html/wp-content/uploads/2020/04/demo-content-import-file_2020-04-06__12-53-18.xml
+Widget file = /home/dbe8lj4jelac/public_html/wp-content/uploads/2020/04/demo-widgets-import-file_2020-04-06__12-53-18.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Top Offers/Products - Latest Coupons - Imported
+HTML Tùy chỉnh - No Title - Imported
+
+Footer 1 : 
+
+Văn bản - About Rewise - Imported
+ReHub: Social icons - No Title - Imported
+
+Footer 2 : 
+
+Văn bản - No Title - Imported
+
+Footer 3 : 
+
+Văn bản - Sign Up for Weekly Newsletter - Imported
+
+Custom sidebar area : 
+
+HTML Tùy chỉnh - Similar shops - Imported
+Văn bản - No Title - Imported
+
+Custom sidebar area 2 : 
+
+Văn bản - Sign Up for Weekly Newsletter - Imported
+
+Woocommerce shop sidebar : 
+
+Lọc sản phẩm bởi giá - Filter Products - Imported
+Lọc sản phẩm bởi Thuộc tính - Effective Pixels (MP) - Imported
+Lọc sản phẩm bởi Thuộc tính - Image Sensor Size - Imported
+Lọc sản phẩm bởi Thuộc tính - Internal Storage (GB) - Imported
+Lọc sản phẩm bởi Thuộc tính - ISO Rating - Imported
+Lọc sản phẩm bởi Thuộc tính - Primary Camera - Imported
+Lọc sản phẩm bởi Thuộc tính - Shutter Speed - Imported
+Lọc sản phẩm bởi Thuộc tính - SIM Type - Imported
+Lọc sản phẩm bởi Thuộc tính - Video Resolution - Imported
+Lọc sản phẩm theo bình chọn - Average rating - Imported
+
+Woocommerce product sidebar : 
+
+CE: Price Movers - Price Drops - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------HomePage was assigned-------

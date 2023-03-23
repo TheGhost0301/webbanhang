@@ -1,0 +1,1 @@
+var _0x711c=["\x23\x64\x72\x61\x67\x67\x61\x62\x6C\x65","\x64\x72\x61\x67\x67\x61\x62\x6C\x65"];(function(){var _0x7c21x1=false;var _0x7c21x2=jQuery(_0x711c[0]);_0x7c21x3();function _0x7c21x3(){_0x7c21x2[_0x711c[1]]({drag:function(){_0x7c21x1= true}})}})()
